@@ -1,2 +1,3 @@
 # VMRR
-Reconfigre VMs' Resources by VMwareAPI in A Cloud Environment
+实验室的国家自然科学基金项目原型系统--云计算中虚拟机资源与应用系统参数的协同自适应配置研究
+主要实现在动态的云环境下，对VMware集群的动态资源重配置
